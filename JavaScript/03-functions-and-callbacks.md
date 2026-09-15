@@ -544,21 +544,3 @@ console.log() → only displays a value.
 JavaScript passes arguments by value.
 For objects/arrays, the copied value is a reference to the same object.
 ```
-
-# 16. MountBlue Review Questions
-
-1. What is a function?
-2. What is the difference between a parameter and an argument?
-3. Function declaration vs function expression?
-4. What is an anonymous function?
-5. What is an arrow function?
-6. What are default parameters?
-7. What are rest parameters?
-8. What is a callback function?
-9. What is a higher-order function?
-10. What is the difference between `return` and `console.log()`?
-11. What happens when a function has no `return`?
-12. What is the difference between passing a primitive and passing an object to a function?
-13. Why do we write `callback` instead of `callback()` when passing a function?
-14. Are function declarations hoisted?
-15. What is one important difference between arrow functions and regular functions?

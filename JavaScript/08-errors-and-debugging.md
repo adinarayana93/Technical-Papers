@@ -596,26 +596,3 @@ catch
  ↓
 continue after try/catch
 ```
-
-# 14. MountBlue Review Questions
-
-1. What is debugging?
-2. What is a bug?
-3. What is a `SyntaxError`?
-4. What is a `ReferenceError`?
-5. What is a `TypeError`?
-6. How do you read a stack trace?
-7. What information does a stack trace provide?
-8. What does `throw` do?
-9. Why is `throw new Error()` preferred over throwing a string?
-10. What are `error.name`, `error.message`, and `error.stack`?
-11. What is `try...catch` used for?
-12. What happens to the remaining code inside `try` after `throw`?
-13. Does execution continue after the `catch` block?
-14. What is `finally` used for?
-15. Difference between `console.log()` and `console.error()`?
-16. What is `console.table()` useful for?
-17. What does `console.trace()` show?
-18. What is a logic bug?
-19. Does every bug produce a runtime error?
-20. How would you debug a function that returns the wrong result?

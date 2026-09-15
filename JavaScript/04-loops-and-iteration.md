@@ -468,20 +468,3 @@ Always make sure a while loop can eventually stop.
 Use meaningful loop variable names.
 ```
 
-# 13. MountBlue Review Questions
-
-1. What is a loop?
-2. Explain the three parts of a `for` loop.
-3. When would you use a `while` loop?
-4. What causes an infinite loop?
-5. What is the difference between `for...of` and `for...in`?
-6. Which loop is normally used to iterate over object keys?
-7. Why should `for...in` generally not be used for array values?
-8. What is `forEach()`?
-9. What is the difference between `forEach()` and `for...of`?
-10. What does `break` do?
-11. What does `continue` do?
-12. How do you access an object's value when using `for...in`?
-13. Which loop would you choose if you need the array index?
-14. Which loop would you choose if you only need array values?
-15. Write a loop that prints only even numbers from 1 to 10.

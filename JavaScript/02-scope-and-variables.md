@@ -347,18 +347,3 @@ Prefer const by default.
 Use let when reassignment is required.
 Avoid unnecessary global variables.
 ```
-
-# 9. MountBlue Review Questions
-
-1. What is scope?
-2. What are global, function, and block scope?
-3. What is the difference between `var`, `let`, and `const`?
-4. Why should we avoid `var`?
-5. What is hoisting?
-6. What is the Temporal Dead Zone?
-7. Why does `var` return `undefined` before assignment?
-8. Why do `let` and `const` give `ReferenceError` before declaration?
-9. Can a `const` object's properties be changed?
-10. Why are global variables generally discouraged?
-11. What is the difference between reassignment and redeclaration?
-12. Why should variable names be meaningful?

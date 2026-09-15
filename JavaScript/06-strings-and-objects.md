@@ -640,24 +640,3 @@ Object.assign()     → copy/merge properties
 Object.hasOwn()     → check own property
 Object.fromEntries() → entries → object
 ```
-
-# 16. MountBlue Review Questions
-
-1. What is a string?
-2. What does it mean that strings are immutable?
-3. What does `trim()` do?
-4. Difference between `includes()` and `indexOf()`?
-5. Difference between `slice()` and `substring()`?
-6. Difference between `replace()` and `replaceAll()`?
-7. What does `split()` return?
-8. What is an object?
-9. Difference between dot notation and bracket notation?
-10. How do you add, update, and delete an object property?
-11. What does `Object.keys()` return?
-12. What does `Object.values()` return?
-13. What does `Object.entries()` return?
-14. What is `Object.assign()` used for?
-15. What does `Object.hasOwn()` check?
-16. What does `Object.fromEntries()` do?
-17. How can you iterate over an object's key-value pairs?
-18. Why can object properties be changed even when the object is declared with `const`?

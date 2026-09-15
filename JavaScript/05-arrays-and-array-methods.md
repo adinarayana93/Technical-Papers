@@ -634,25 +634,3 @@ reduce → combine
 slice  → does not modify original
 splice → modifies original
 ```
-
-# 17. MountBlue Review Questions
-
-1. What is an array?
-2. Do array indexes start at 0 or 1?
-3. What does `push()` return?
-4. What does `pop()` do?
-5. Difference between `slice()` and `splice()`?
-6. What does `concat()` do?
-7. What does `join()` return?
-8. What does `flat()` do?
-9. Difference between `find()` and `filter()`?
-10. Difference between `findIndex()` and `indexOf()`?
-11. What does `includes()` return?
-12. Difference between `forEach()` and `map()`?
-13. When would you use `reduce()`?
-14. Why do we use `(a, b) => a - b` with numeric `sort()`?
-15. Which common array methods mutate the original array?
-16. What is method chaining?
-17. Given `[1, 2, 3, 4]`, write code to get `[2, 4]`.
-18. Given `[1, 2, 3]`, write code to get `[10, 20, 30]`.
-19. Given `[10, 20, 30]`, use `reduce()` to calculate the total.

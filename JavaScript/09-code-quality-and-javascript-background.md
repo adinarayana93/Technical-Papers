@@ -433,26 +433,3 @@ Documentation:
 → check mutation/side effects
 → read examples
 ```
-
-# 17. MountBlue Review Questions
-
-1. What do we mean by code quality?
-2. Why is indentation important?
-3. Why should variable and function names be meaningful?
-4. Why should unnecessary global variables be avoided?
-5. What is duplicate code?
-6. How can functions help reduce duplication?
-7. Why should functions have focused responsibilities?
-8. Why is readable code often better than clever code?
-9. When are comments useful?
-10. What is JavaScript?
-11. Who created JavaScript and when?
-12. What is ECMAScript?
-13. What is the difference between JavaScript and ECMAScript?
-14. What is imperative programming?
-15. What is declarative programming?
-16. What is the difference between HOW and WHAT in these programming styles?
-17. Where would you search for JavaScript documentation?
-18. What information should you look for in documentation?
-19. Why should you check whether an array method mutates the original array?
-20. Improve a piece of unclear code by using meaningful names and smaller functions.
